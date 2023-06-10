@@ -27,7 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venuseras21&show_icons=true&locale=en" alt="venuseras21" /></p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=venuseras21&show_icons=true&locale=en&theme=tokyonight" alt="venuseras21" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=venuseras21&theme=tokyonight" alt="venuseras21" /></p>
+<div>&nbsp;<img width="49%" height="400px" style="padding:30px" src="https://github-readme-stats.vercel.app/api?username=venuseras21&show_icons=true&locale=en&theme=tokyonight" alt="venuseras21" /><img width="49%" height="400px"  src="https://github-readme-streak-stats.herokuapp.com/?user=venuseras21&theme=tokyonight" alt="venuseras21" /></div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
  
