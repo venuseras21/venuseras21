@@ -2,7 +2,7 @@
 <img align="center" width="100%" height="400px" alt="cat coding" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"> 
 
 <h1 align="center">Hi 👋, I'm Venus Marie Eras</h1>
-<h3 align="center">An IT student from Cavite State University - Bacoor Campus who is Driven by curiosity with a passion for learning and creative collaboration.
+<h3 align="center">An IT graduate from Cavite State University - Bacoor Campus who is Driven by curiosity with a passion for learning and creative collaboration.
 </h3>
 
 <img align="left" width="400px" alt="girl coding" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"> 
